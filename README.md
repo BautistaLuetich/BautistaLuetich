@@ -1,4 +1,4 @@
-# About Me:
+# 📖 About Me:
 My name is Bautista Luetich, and I am from Santa Fe, Argentina. I am currently pursuing a degree in Information Systems Engineering at the National Technological University (Universidad Tecnológica Nacional), Santa Fe Regional Faculty.<br>I have a B1+ level of English proficiency and experience in software development, working with languages such as Java, Python, and C++, as well as PostgreSQL databases and version control using Git.
 
 
